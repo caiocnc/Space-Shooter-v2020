@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f66e6901078a767438ed4626aad4ffea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Efeito_tiro: {instanceID: 0}
+  - Explosao: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
